@@ -101,6 +101,65 @@ A user-friendly design is critical in a booking system because it:
 
 ---
 
+## 🎨 UI Component Patterns
+
+To replicate the Airbnb user experience, we will design and implement reusable UI components inspired by the original Airbnb website. Below are the key components and their functionalities:
+
+### 1. **Navbar**
+- **Description:** 
+  - A fixed navigation bar that appears at the top of every page.
+- **Features:**
+  - Includes the Airbnb logo.
+  - A search bar for users to search properties.
+  - Navigation links (e.g., Login, Signup, Help, Become a Host).
+  - Responsive design to adapt to different screen sizes.
+- **Usage:** Provides consistent navigation throughout the application.
+
+### 2. **Property Card**
+- **Description:**
+  - A card-like component to display individual property details.
+- **Features:**
+  - Property image, name, location, price, and rating.
+  - A button or link for users to view more details.
+  - Hover effects for interactivity.
+- **Usage:** Used in the property listing view to showcase multiple properties in a grid format.
+
+### 3. **Footer**
+- **Description:** 
+  - A footer appearing at the bottom of every page.
+- **Features:**
+  - Links to About, Careers, Privacy Policy, and Terms of Service.
+  - Social media icons and contact information.
+  - Adaptive design to fit various devices.
+- **Usage:** Provides additional information and links, enhancing the site's professionalism.
+
+### 4. **Search Filters**
+- **Description:**
+  - A section for users to filter property listings based on specific criteria.
+- **Features:**
+  - Filter by location, price range, availability, and amenities.
+  - User-friendly sliders and dropdowns.
+- **Usage:** Enhances the search functionality for better user experience.
+
+### 5. **Booking Form**
+- **Description:**
+  - A form for users to input their booking details.
+- **Features:**
+  - Input fields for dates, guest count, and special requests.
+  - Real-time price calculation.
+  - Submit button for booking confirmation.
+- **Usage:** Used in the checkout view to finalize bookings.
+
+### 6. **Hero Section**
+- **Description:**
+  - A prominent section at the top of the homepage.
+- **Features:**
+  - High-quality background image with a tagline or call-to-action (e.g., "Find your next adventure").
+  - Search bar or navigation buttons.
+- **Usage:** Captures user attention and provides easy access to search functionality.
+
+---
+
 
 ## 👥 Project Roles and Responsibilities
 
