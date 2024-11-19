@@ -54,6 +54,33 @@ This project will serve as a capstone to develop practical front-end development
 4. **User-Friendly Forms:** Simple and easy-to-complete forms for checkout and filtering.
 5. **Visual Appeal:** Use high-quality images and visually distinct elements for better engagement.
 
+### Design Properties
+
+#### Color Styles
+
+- **Primary Color:** `#34967C` (Green Teal)
+- **Secondary Color:** `#161117` (Dark Charcoal)
+
+#### Typography
+
+- **Font Family:** Source Sans Pro
+- **Font Weight:** 600
+- **Font Sizes:** Specific sizes to be applied based on the Figma design:
+  - Headings: 24px
+  - Subheadings: 18px
+  - Body Text: 14px
+
+### Importance of Identifying Design Properties
+
+Identifying design properties is critical to achieving a cohesive and professional interface. It ensures:
+
+1. **Consistency Across the Application:** Defined colors, typography, and spacing create a unified user experience.
+2. **Adherence to Branding Guidelines:** Following specified styles aligns the project with brand identity.
+3. **Efficiency in Development:** Pre-defined design properties save time during coding and reduce miscommunication between designers and developers.
+4. **Improved User Experience:** Consistent design properties enhance readability, usability, and user satisfaction.
+5. **Scalability:** A well-defined style guide allows for easier expansion and maintenance of the application.
+
+
 ### Primary Pages Overview
 
 | Page                  | Description                                                                                                   | Key Elements                               |
